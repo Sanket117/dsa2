@@ -1,0 +1,9 @@
+An Array is a collection of elements stored in contingous memory location. 
+
+All elements of array are of same data type Iint, float, etc.
+Array allow for efficient access and manipulation of data. 
+
+
+
+
+In python we use list, instead of array as they d 
